@@ -1,2 +1,1 @@
 # EntriRepo
-Description about Entri
